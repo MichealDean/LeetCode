@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea
+/node_modules
+/.vscode
+.DS_Store
+npm-debug.*
+*.xlsx
+.eslintrc
+.eslintrc.json
