@@ -1,8 +1,9 @@
 #JavaScript Algorithm Problems on LeetCode 
 
 ### Introduction
-JavaScript and Go Solutions to problems on LeetCode.
-Practice Makes Prefect! Come on!
+JavaScript and Go Solutions to problems on LeetCode.  
+Practice Makes Prefect!  
+Come on!
 
 | Index | Problem       | Level  | Language  | Video Tutorial|
 |:-------:|:--------------|:------:|:---------:|:-------------:|
