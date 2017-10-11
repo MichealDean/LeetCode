@@ -1,4 +1,4 @@
-#JavaScript Algorithm Problems on LeetCode 
+# JavaScript Algorithm Problems on LeetCode
 
 ### Introduction
 JavaScript and Go Solutions to problems on LeetCode.  
