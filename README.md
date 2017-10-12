@@ -14,3 +14,4 @@ Come on!
 |5|[476. Number Complement](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/476.%20Number%20Complement.js)|Easy|JavaScript|2017.10.12|
 |6|[557. Reverse Words in a String III](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/557.%20Reverse%20Words%20in%20a%20String%20III.js)|Easy|JavaScript|2017.10.12|
 |7|[344. Reverse String](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/344.%20Reverse%20String.js)|Easy|JavaScript|2017.10.12|
+|8|[682. Baseball Game](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/682.%20Baseball%20Game.js)|Easy|Javascript|2017.10.12|
