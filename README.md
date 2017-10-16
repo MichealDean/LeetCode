@@ -17,3 +17,4 @@ Come on!
 |8|[682. Baseball Game](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/682.%20Baseball%20Game.js)|Easy|Javascript|2017.10.12|
 |9|[575. Distribute Candies](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/575.%20Distribute%20Candies.js)|Easy|Javascript|2017.10.13|
 |10|[412. Fizz Buzz](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/412.%20Fizz%20Buzz.js)|Easy|Javascript|2017.10.13|
+|11|[566. Reshape the Matrix](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/566.%20Reshape%20the%20Matrix.js)|Easy|Javascript|2017.10.16|
