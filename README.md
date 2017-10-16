@@ -18,3 +18,4 @@ Come on!
 |9|[575. Distribute Candies](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/575.%20Distribute%20Candies.js)|Easy|Javascript|2017.10.13|
 |10|[412. Fizz Buzz](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/412.%20Fizz%20Buzz.js)|Easy|Javascript|2017.10.13|
 |11|[566. Reshape the Matrix](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/566.%20Reshape%20the%20Matrix.js)|Easy|Javascript|2017.10.16|
+|12|[669. Trim a Binary Search Tree](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/669.%20Trim%20a%20Binary%20Search%20Tree.js)|Easy|Javascript|2017.10.16|
