@@ -22,3 +22,4 @@ Come on!
 |13|[463. Island Perimeter](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/463.%20Island%20Perimeter.js)|Easy|javascript|2017.10.16|
 |14|[637. Average of Levels in Binary Tree](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/637.%20Average%20of%20Levels%20in%20Binary%20Tree.js)|Easy|javascript|2017.10.17|
 |15|[521. Longest Uncommon Subsequence I](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/521.%20Longest%20Uncommon%20Subsequence%20I.js)|Easy|javascript|2017.10.17|
+|16|[292. Nim Game](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/292.%20Nim%20Game.js)|Easy|javascript|2017.10.17|
