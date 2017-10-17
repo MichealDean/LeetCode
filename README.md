@@ -21,3 +21,4 @@ Come on!
 |12|[669. Trim a Binary Search Tree](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/669.%20Trim%20a%20Binary%20Search%20Tree.js)|Easy|Javascript|2017.10.16|
 |13|[463. Island Perimeter](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/463.%20Island%20Perimeter.js)|Easy|javascript|2017.10.16|
 |14|[637. Average of Levels in Binary Tree](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/637.%20Average%20of%20Levels%20in%20Binary%20Tree.js)|Easy|javascript|2017.10.17|
+|15|[521. Longest Uncommon Subsequence I](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/521.%20Longest%20Uncommon%20Subsequence%20I.js)|Easy|javascript|2017.10.17|
