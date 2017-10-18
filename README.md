@@ -25,3 +25,4 @@ Come on!
 |16|[292. Nim Game](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/292.%20Nim%20Game.js)|Easy|javascript|2017.10.17|
 |17|[136. Single Number](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/136.%20Single%20Number.js)|Easy|javascript|2017.10.18|
 |18|[485. Max Consecutive Ones](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/485.%20Max%20Consecutive%20Ones.js)|Easy|javascript|2017.10.18|
+|19|[693. Binary Number with Alternating Bits](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/693.%20Binary%20Number%20with%20Alternating%20Bits.js)|Easy|javascript|2017.10.18|
