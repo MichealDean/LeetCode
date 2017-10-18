@@ -23,3 +23,4 @@ Come on!
 |14|[637. Average of Levels in Binary Tree](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/637.%20Average%20of%20Levels%20in%20Binary%20Tree.js)|Easy|javascript|2017.10.17|
 |15|[521. Longest Uncommon Subsequence I](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/521.%20Longest%20Uncommon%20Subsequence%20I.js)|Easy|javascript|2017.10.17|
 |16|[292. Nim Game](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/292.%20Nim%20Game.js)|Easy|javascript|2017.10.17|
+|17|[136. Single Number](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/136.%20Single%20Number.js)|Easy|javascript|2017.10.18|
