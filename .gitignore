@@ -5,5 +5,5 @@
 .DS_Store
 npm-debug.*
 *.xlsx
-.eslintrc
+.eslintrc.js
 .eslintrc.json
