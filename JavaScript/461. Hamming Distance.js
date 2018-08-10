@@ -2,7 +2,7 @@
  * Created by wxh_pc on 2017/10/11.
  */
 
-/*The Hamming distance between two integers is the number of positions at which the corresponding bits are different.
+/* The Hamming distance between two integers is the number of positions at which the corresponding bits are different.
   Given two integers x and y, calculate the Hamming distance.
 
  Note:
@@ -30,10 +30,10 @@
  * @return {number}
  */
 let hammingDistance = function(x, y) {
-    let result = (x^y).toString(2);
+    let result = (x ^ y).toString(2);
     let distance = 0;
-    for (let i = 0; i<result.length; i++) {
-        if (result.charAt(i) === '1') distance++
+    for (let i = 0; i < result.length; i++) {
+        if (result.charAt(i) === '1') distance++;
 
     }
     return distance;

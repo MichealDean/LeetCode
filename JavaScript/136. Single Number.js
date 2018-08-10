@@ -20,5 +20,5 @@
  * @return {number}
  */
 const singleNumber = function(nums) {
-    return nums.reduce((a,b) => a^b);
+    return nums.reduce((a, b) => a ^ b);
 };

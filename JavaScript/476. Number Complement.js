@@ -29,14 +29,14 @@
  */
 const findComplement = function(num) {
     let temp = '';
-    let numStr = num.toString(2)
-    for(let i = 0; i< numStr.length; i++) {
+    let numStr = num.toString(2);
+    for (let i = 0; i < numStr.length; i++) {
         if (numStr.charAt(i) === '0') {
-            temp+='1'
+            temp += '1';
         } else {
-            temp+='0';
+            temp += '0';
         }
 
     }
-    return parseInt(temp,2)
+    return parseInt(temp, 2);
 };

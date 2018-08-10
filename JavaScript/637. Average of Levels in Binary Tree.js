@@ -45,10 +45,10 @@ const averageOfLevels = function(root) {
         count[level]++;
         loop(node.left, level + 1);
         loop(node.right, level + 1);
-    }
-    loop(root,0);
+    };
+    loop(root, 0);
     for (let i = 0; i < count.length; i++) {
-        average[i] = sum[i]/count[i];
+        average[i] = sum[i] / count[i];
     }
     return average;
 };

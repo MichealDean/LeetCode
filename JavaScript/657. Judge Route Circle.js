@@ -24,23 +24,25 @@
  * @return {boolean}
  */
 let judgeCircle = function(moves) {
-    let A = 0, a =0, B = 0, b = 0;
-    for (let i = 0; i<moves.length; i++) {
+    let A = 0, 
+        a = 0, 
+        B = 0, 
+        b = 0;
+    for (let i = 0; i < moves.length; i++) {
         switch (moves.charAt(i)) {
             case 'U':
                 A++;
-                break
+                break;
             case 'D':
                 a++;
-                break
+                break;
             case 'L':
                 B++;
-                break
+                break;
             case 'R':
                 b++;
-                break
+                break;
         }
     }
     return (A === a && B === b);
 };
-

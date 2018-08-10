@@ -56,23 +56,24 @@ const calPoints = function(ops) {
     let sum = 0;
     for (let i = 0; i < ops.length; i++) {
         switch (ops[i]) {
-            case 'C' :
+            case 'C':
                 sum = sum - tempStack[0];
                 tempStack.shift();
-                break
-            case 'D' :
-                sum = sum + tempStack[0]*2;
-                tempStack.unshift(tempStack[0]*2);
-                break
-            case '+' :
+                break;
+            case 'D':
+                sum = sum + tempStack[0] * 2;
+                tempStack.unshift(tempStack[0] * 2);
+                break;
+            case '+':
                 sum = sum + tempStack[0] + tempStack[1];
                 tempStack.unshift(tempStack[0] + tempStack[1]);
-                break
-            default:
-                let num = parseInt(ops[i])
+                break;
+            default: {
+                let num = parseInt(ops[i], 10);
                 sum = sum + num;
                 tempStack.unshift(num);
-                break
+                break;
+            }
         }
     }
     return sum;

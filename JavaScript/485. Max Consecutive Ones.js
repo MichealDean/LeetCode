@@ -28,12 +28,12 @@ const findMaxConsecutiveOnes = function(nums) {
     let lengths = 0;
     let temp = 0;
     for (let i = 0; i < nums.length; i++) {
-        if (nums[i] && nums[i] === 1){
+        if (nums[i] && nums[i] === 1) {
             temp++;
-            lengths = lengths > temp? lengths:temp;
-        }else {
+            lengths = lengths > temp ? lengths : temp;
+        } else {
             temp = 0;
         }
     }
-    return  lengths
+    return lengths;
 };

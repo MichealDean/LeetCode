@@ -45,4 +45,3 @@ const hasAlternatingBits = function(n) {
     }
     return true;
 };
-

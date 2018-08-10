@@ -48,24 +48,25 @@
 const matrixReshape = function(nums, r, c) {
     let m = nums.length;
     let n = nums[0].length;
-    if (m*n !== r*c){
+    if (m * n !== r * c) {
         return nums;
     }
-    let ans = [], k;
+    let ans = [];
+    let k;
 
-    //构建空矩阵作为返回值
-    for (let i = 0; i < r; i++){
+    // 构建空矩阵作为返回值
+    for (let i = 0; i < r; i++) {
         ans[i] = [];
-        for (let j = 0; j < c; j++){
+        for (let j = 0; j < c; j++) {
             ans[i][j] = 'undefined';
         }
     }
 
-    //为空矩阵赋值
-    for (let i =0; i < m; i++){
-        for (let j = 0; j < n; j++){
+    // 为空矩阵赋值
+    for (let i = 0; i < m; i++) {
+        for (let j = 0; j < n; j++) {
             k = (i * n) + j;
-            ans[Math.floor(k/c)][k%c] = nums[i][j];
+            ans[Math.floor(k / c)][k % c] = nums[i][j];
         }
     }
     return ans;
