@@ -32,3 +32,4 @@ Come on!
 |23|[217.存在重复元素](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/217.%20%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.js)|Easy|Javascript|2018.9.11|
 |24|[350. 两个数组的交集 II](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/350.%20%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86%20II.js)|Easy|Javascript|2018.9.11|
 |25|[283.移动零](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/283.%E7%A7%BB%E5%8A%A8%E9%9B%B6.js)|Easy|Javascript|2018.9.11|
+|26|[1.两数之和](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/1.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.js)|Easy|Javascript|2018.9.11|
