@@ -33,4 +33,5 @@ Come on!
 |24|[350. 两个数组的交集 II](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/350.%20%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86%20II.js)|Easy|Javascript|2018.9.11|
 |25|[283.移动零](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/283.%E7%A7%BB%E5%8A%A8%E9%9B%B6.js)|Easy|Javascript|2018.9.11|
 |26|[1.两数之和](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/1.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.js)|Easy|Javascript|2018.9.11|
-|26|[66.加一](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/60.%E5%8A%A0%E4%B8%80.js)|Easy|Javascript|2018.9.12|
+|27|[66.加一](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/60.%E5%8A%A0%E4%B8%80.js)|Easy|Javascript|2018.9.12|
+|28|[36.有效的数独](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/36.%E6%9C%89%E6%95%88%E7%9A%84%E6%95%B0%E7%8B%AC.js)|Medium|Javascript|2018.11.6|
