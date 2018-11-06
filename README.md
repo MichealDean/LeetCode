@@ -35,3 +35,5 @@ Come on!
 |26|[1.两数之和](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/1.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.js)|Easy|Javascript|2018.9.11|
 |27|[66.加一](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/60.%E5%8A%A0%E4%B8%80.js)|Easy|Javascript|2018.9.12|
 |28|[36.有效的数独](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/36.%E6%9C%89%E6%95%88%E7%9A%84%E6%95%B0%E7%8B%AC.js)|Medium|Javascript|2018.11.6|
+|29|[48.旋转图像](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/48.%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F.js)|Medium|Javascript|2018.11.6|
+|30|[7.反转整数](https://github.com/MichealDean/LeetCode/blob/master/JavaScript/7.%E5%8F%8D%E8%BD%AC%E6%95%B4%E6%95%B0.js)|Medium|Javascript|2018.11.6|
